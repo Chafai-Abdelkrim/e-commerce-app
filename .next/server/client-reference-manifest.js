@@ -229,6 +229,162 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./components/providers.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/providers.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/providers.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "Providers": {
+        "id": "(sc_client)/./components/providers.tsx",
+        "name": "Providers",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/site-header.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/site-header.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/site-header.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "SiteHeader": {
+        "id": "(sc_client)/./components/site-header.tsx",
+        "name": "SiteHeader",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/theme-provider.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/theme-provider.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/theme-provider.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "ThemeProvider": {
+        "id": "(sc_client)/./components/theme-provider.tsx",
+        "name": "ThemeProvider",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/theme-toggle.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/theme-toggle.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/theme-toggle.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "ThemeToggle": {
+        "id": "(sc_client)/./components/theme-toggle.tsx",
+        "name": "ThemeToggle",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/toaster.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/toaster.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/toaster.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "Toaster": {
+        "id": "(sc_client)/./components/ui/toaster.tsx",
+        "name": "Toaster",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -930,6 +1086,174 @@ self.__RSC_MANIFEST={
       "chunks": [
         "static/css/app/layout.css"
       ]
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/providers.tsx": {
+      "id": "(app-client)/./components/providers.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/providers.tsx#": {
+      "id": "(app-client)/./components/providers.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/providers.tsx#Providers": {
+      "id": "(app-client)/./components/providers.tsx",
+      "name": "Providers",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/site-header.tsx": {
+      "id": "(app-client)/./components/site-header.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/site-header.tsx#": {
+      "id": "(app-client)/./components/site-header.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/site-header.tsx#SiteHeader": {
+      "id": "(app-client)/./components/site-header.tsx",
+      "name": "SiteHeader",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/theme-provider.tsx": {
+      "id": "(app-client)/./components/theme-provider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/theme-provider.tsx#": {
+      "id": "(app-client)/./components/theme-provider.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/theme-provider.tsx#ThemeProvider": {
+      "id": "(app-client)/./components/theme-provider.tsx",
+      "name": "ThemeProvider",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/theme-toggle.tsx": {
+      "id": "(app-client)/./components/theme-toggle.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/theme-toggle.tsx#": {
+      "id": "(app-client)/./components/theme-toggle.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/theme-toggle.tsx#ThemeToggle": {
+      "id": "(app-client)/./components/theme-toggle.tsx",
+      "name": "ThemeToggle",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/ui/toaster.tsx": {
+      "id": "(app-client)/./components/ui/toaster.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/ui/toaster.tsx#": {
+      "id": "(app-client)/./components/ui/toaster.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/components/ui/toaster.tsx#Toaster": {
+      "id": "(app-client)/./components/ui/toaster.tsx",
+      "name": "Toaster",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/abdelkrim/repos/e-commerce-app/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
     }
   }
 }
