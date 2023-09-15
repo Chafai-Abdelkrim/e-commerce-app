@@ -21,7 +21,7 @@ export default async function Page({ params }: Props) {
       sku,
       images,
       price,
-      curreny,
+      currency,
       description,
       sizes,
       categories,
