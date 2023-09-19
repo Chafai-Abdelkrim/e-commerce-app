@@ -43,8 +43,8 @@ export function ProductGrid({ products }: Props) {
               )}`}
               src={urlForImage(product.images[0]).url()}
               alt={product.name}
-              width={0}
-              height={0}
+              width={255}
+              height={280}
               className="h-full w-full object-cover object-center"
             />
           </div>
