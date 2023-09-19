@@ -1,3 +1,3 @@
 ## E-Commerce App
 
-- [Project Link](https://bit.ly/fs-ecommerce)
+- [Project Link](https://e-commerce-app-taupe-psi.vercel.app/)
